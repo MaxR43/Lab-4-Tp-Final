@@ -80,3 +80,4 @@ if archivo_cargado:
 
             st.pyplot(fig)
 
+mostrar_informacion_alumno()
